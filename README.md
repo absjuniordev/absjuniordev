@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <div> 
+ <h2>Fernando Pessoa</h2>
 ## Tools and Technology
  
  <br>
