@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=absjuniordev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>     
 
- <p>
+ 
  ![Snake animation](https://github.com/absjuniordev/absjuniordev/blob/output/github-contribution-grid-snake.svg)
 
 
