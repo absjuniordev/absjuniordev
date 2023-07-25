@@ -1,8 +1,7 @@
-### Hi there 👋
-
 
 # 👋 Hello! Welcome to my Github profile.
-## My name is SeuNomeAqui and my nickname is "Arnaldo Borges"!
+
+## My name is Arnaldo Borges and my nickname is "absjuniordev"!
 
 Here are some ideas to get you started:
 
@@ -16,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ## Tools and Technology
+
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
