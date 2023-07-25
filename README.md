@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-<a href="https://github.com/absjuniordev/absjuniordev">
+<a href="https://github.com/absjuniordev">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=[absjunniori](https://www.instagram.com/absjunnior/)&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=https://github.com/absjuniordev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>          
           
 
