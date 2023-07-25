@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 
 <div> 
 ## Tools and Technology
-</div> 
+
+
 <div> 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" /> 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" /> 
@@ -24,6 +25,8 @@ Here are some ideas to get you started:
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
 </div> 
+</div> 
+ 
  
 ## Contacts:        
 <div>
