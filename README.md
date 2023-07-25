@@ -12,22 +12,29 @@ About Me:
 Tools and Technology I Use:
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40" />
 </p>
 Let's Connect:
 <p align="center">
   <a href="https://www.instagram.com/absjunnior/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  &nbsp;&nbsp;
   <a href="mailto:abs.junnior@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
+  &nbsp;&nbsp;
   <a href="https://br.linkedin.com/in/arnaldo-borges-jr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 GitHub Stats:
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=absjuniordev&layout=compact&langs_count=7&theme=dracula" alt="Top Languages">
+  &nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=absjuniordev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats">
 </p>
 Snake animation
 
-Thank you for visiting my profile! Feel free to explore my repositories and don't forget to star your favorite projects! Happy coding! 🚀
+Thank you for visiting my profile! Feel free to explore my repositories, and don't forget to star your favorite projects! Happy coding! 🚀
