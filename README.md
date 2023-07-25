@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <div> 
- <h2>Fernando Pessoa</h2>
-## Tools and Technology
- 
- <br>
+ <h2>Tools and Technology</h2>
  
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" /> 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" /> 
