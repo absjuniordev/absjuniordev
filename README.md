@@ -43,5 +43,4 @@ Here are some ideas to get you started:
 </div>     
 <p>
  
-![Snake animation](https://github.com/absjuniordev/absjuniordev/blob/output/github-contribution-grid-snake.svg)
 
