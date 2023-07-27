@@ -1,7 +1,7 @@
 
 # 👋 Hello! Welcome to my Github profile.
 
-## My name is Arnaldo Borges and my nickname is "absjuniordev"!
+## My name is Arnaldo Junior and my nickname is "absjuniordev"!
 
 Here are some ideas to get you started:
 
