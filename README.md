@@ -1,51 +1,74 @@
+# 👋 Olá! Eu sou Arnaldo Borges  
 
-# 👋 Hello! Welcome to my Github profile.
+💻 Desenvolvedor Java Backend  
+🚀 Especialista em APIs REST com Spring Boot  
+🧠 Experiência em ambiente produtivo com Java & Linux  
 
-## My name is Arnaldo Junior and my nickname is "absjuniordev"!
+---
 
-Here are some ideas to get you started:
+## 🔥 Sobre mim
 
-- 🔭 I am currently working on...
-- 🌱 I'm currently learning flutter & dart
-- 👯 Looking to collaborate on a better development strategy
-- 🤔 I'm looking for help with my first job as a developer
-- 💬 Ask me about my daily life
-- 📫 How to get there: to space without leaving the place
+Atuo com desenvolvimento backend utilizando **Java 17, Spring Boot, JPA/Hibernate e PostgreSQL**, com experiência prática em:
 
+- Deploy de aplicações (WAR/JAR) em **Apache Tomcat**
+- Análise de logs e troubleshooting em ambiente Linux
+- Autenticação e autorização com **Spring Security e JWT**
+- Integração entre sistemas via APIs REST
+- Versionamento com Git e GitHub
 
- <div>
- <h2>Tools and Technology</h2>
+Tenho vivência real em ambiente produtivo, atuando na resolução de incidentes e validação de integrações.
 
- 
-          
- 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" /> 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" /> 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" /> 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" /> 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
- 
+Meu foco é construir aplicações escaláveis, organizadas e seguindo boas práticas como Clean Code e Arquitetura em Camadas.
 
-<p> 
-</div>       
+---
+
+## 🛠️ Stack Principal
+
 <div>
- <h2>Contacts</h2>
-<a href="https://www.instagram.com/absjunnior/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:abs.junnior@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>  
-<a href="https://br.linkedin.com/in/arnaldo-borges-jr" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="45" height="45" /> 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45" /> 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45"/> 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" height="45"/>
 </div>
 
-<p>
-<div>
- <h2>Statics</h2>
-<a href="https://github.com/absjuniordev">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=absjuniordev&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=absjuniordev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>     
-<p>
- 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=absjuniordev&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+---
 
+## 📌 Projetos em Destaque
+
+🔹 **Benefícios Flex API**  
+API REST para gestão de benefícios corporativos com autenticação JWT e integração PostgreSQL.
+
+🔹 **Easy Parking API**  
+Backend com regras de negócio para controle de estacionamento e cálculo automático.
+
+🔹 **E-commerce API**  
+Sistema REST para gerenciamento de usuários, produtos e pedidos com deploy em cloud.
+
+---
+
+## 📫 Contato
+
+<a href="mailto:abs.junnior@hotmail.com">
+<img loading="lazy" src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+</a>
+
+<a href="https://br.linkedin.com/in/arnaldo-borges-jr" target="_blank">
+<img loading="lazy" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+---
+
+## 🎯 Direcionamento Profissional
+
+Atualmente focado em:
+
+- Desenvolvimento de APIs REST com Spring Boot
+- Arquitetura em Camadas
+- Integração com PostgreSQL
+- Segurança com Spring Security e JWT
+- Aplicações prontas para ambiente produtivo
+
+---
+
+💡 “Construindo soluções backend sólidas, performáticas e prontas para produção.”
